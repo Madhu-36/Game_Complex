@@ -17,7 +17,6 @@ The current version focuses on the frontend experience and includes:
 - `app.js` - Client-side logic for login flow, mock data generation, filtering, rendering, and interactions
 
 ## Tech Stack
-
 - HTML5
 - CSS3
 - JavaScript (Vanilla)

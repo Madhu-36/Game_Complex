@@ -1,7 +1,6 @@
 # Game Complex
 
 Game Complex is a dark-themed game marketplace prototype built with plain HTML, CSS, and JavaScript.
-
 The current version focuses on the frontend experience and includes:
 - A login screen with client-side password validation
 - A game browsing interface with featured games, new releases, top sellers, and on-sale sections

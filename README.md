@@ -10,7 +10,7 @@ The current version focuses on the frontend experience and includes:
 - A game details modal
 - Mock game data generated in the browser
 
-## Project Structure
+## Project Structure:-
 - `index.html` - Main application layout and UI sections.
 - `styles.css` - Custom styling for layout, cards, forms, navigation, and modal components
 - `app.js` - Client-side logic for login flow, mock data generation, filtering, rendering, and interactions

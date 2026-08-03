@@ -20,8 +20,7 @@ The current version focuses on the frontend experience and includes:
 - CSS3
 - JavaScript (Vanilla)
 
-## How To Run
-
+## How To Run:-
 1. Clone this repository.
 2. Open `index.html` in your browser.
 

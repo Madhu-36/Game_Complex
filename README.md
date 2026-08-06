@@ -1,4 +1,4 @@
-# Game Complex
+# Game Complex <A complete idea for >
 
 Game Complex is a dark-themed game marketplace prototype built with plain HTML, CSS, and JavaScript:-
 .

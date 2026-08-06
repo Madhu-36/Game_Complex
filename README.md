@@ -32,6 +32,7 @@ No build step or package installation is required for the current version.
 - Game listings are generated from mock data in `app.js`.
 - Authentication is simulated using `localStorage`.
 - A real backend, database, and API integration are not included yet.
+- This
 
 ## Future Improvements
 
